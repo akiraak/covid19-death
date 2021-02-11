@@ -1,1 +1,1 @@
-curl https://toyokeizai.net/sp/visual/tko/covid19/csv/death_total.csv --output ./death_total.csv
+curl https://www.mhlw.go.jp/content/death_total.csv --output ./death_total.csv
